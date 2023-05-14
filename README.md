@@ -117,4 +117,5 @@ Distributed under the Apache License 2.0 . See [LICENSE](https://github.com/Shiv
 
 * **Shiva Bhattacharjee** - [Shiva Bhattacharjee](https://github.com/ShivaBhattacharjee) - *AnimeTrix*
 * **Dark-Knight** - [Dark-Knight-16](https://github.com/Dark-Knight-16) - *AnimeTrix*
+* **Tester And Collaborator** - [Soumyadeep Dey] (https://github.com/SoumyaEXE) - *AnimeTrix*
 
