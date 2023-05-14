@@ -5,11 +5,11 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 function Footer() {
 
   const githubUrl = () => {
-    window.open('https://github.com/ShivaBhattacharjee/AnimeTrix')
+    window.open('https://github.com/Soumyadeep /AnimeTrix')
   }
 
   const instagramUrl = () => {
-    window.open('https://www.instagram.com/animetrix.200/')
+    window.open('https://www.instagram.com/s0umy4_xD/')
   }
   
   return (
@@ -19,7 +19,8 @@ function Footer() {
       </h1>
       <p className="footer-about">
         AnimeTrix is not affiliated with or endorsed by any of the anime studios
-        behind the creation of the anime presented on this site. This website is
+        behind the creation of the anime presented on this site. Special thanks to the Owner (Shiva Bhattacharjee & Dark-Knight) For Making This beautiful website. I (Soumyadeep Dey) will try to make this website more beautiful.   
+This website is
         only an user interface presenting/linking various self-hosted files
         across the internet by other third-party providers for easy access.
         AnimeTrix never downloads the video from any source provider, link will
