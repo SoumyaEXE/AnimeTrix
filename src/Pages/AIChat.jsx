@@ -26,8 +26,8 @@ function AIChat() {
       <div className="chat-container">
 
         <div className="chat-container-heading">
-              <h1>AnimeTrix Bot</h1>
-              <p className="short-desc">Its a fun Ai bot which can recommend anime and chat with you (It May Dont Work)</p>
+              <h1>AnimeSoumyaTrix Bot</h1>
+              <p className="short-desc">Its a fun Ai bot which can recommend anime and chat with you (It's Still In Beta Testing It May Doesn't Work!)</p>
         </div>
 
         <div
