@@ -35,7 +35,8 @@ This website is
           <GitHubIcon />
         </button>
       </div>
- <h6>Ⓒ 2023-2024 Soumyadeep Dey</h6>
+ <p className="footer"> <h6>Ⓒ 2023-2024 Soumyadeep Dey</h6> </p>
+     </div>
   );
 }
 export default Footer;
