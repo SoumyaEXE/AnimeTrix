@@ -36,8 +36,7 @@ This website is
         </button>
       </div>
       <p className="footer-copyright">
-        Ⓒ 2023 - 2024 Soumyadeep Dey <a href="https://github.com/SoumyaEXE">github.com/SoumyaEXE</a>
-      </p>
+       <h6>Ⓒ 2023 - 2024 Soumyadeep Dey</h6>     </p>
     </div>
   );
 }
