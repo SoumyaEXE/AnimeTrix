@@ -11,7 +11,7 @@ function Footer() {
   const instagramUrl = () => {
     window.open('https://www.instagram.com/s0umy4_xD/')
   }
-  
+
   return (
     <div className="footer">
       <h1>
@@ -19,7 +19,7 @@ function Footer() {
       </h1>
       <p className="footer-about">
         AnimeTrix is not affiliated with or endorsed by any of the anime studios
-        behind the creation of the anime presented on this site.A heartfelt thank you to the creators (🔥Shiva Bhattacharjee & Dark-Knight❤) for bringing this stunning website to life. I (🔥Soumyadeep Dey❤) am committed to enhancing its beauty and user experience even further. 
+        behind the creation of the anime presented on this site.
 This website is
         only an user interface presenting/linking various self-hosted files
         across the internet by other third-party providers for easy access.
@@ -35,6 +35,9 @@ This website is
           <GitHubIcon />
         </button>
       </div>
+      <p className="footer-copyright">
+        Ⓒ 2023 - 2024 Soumyadeep Dey <a href="https://github.com/SoumyaEXE">github.com/SoumyaEXE</a>
+      </p>
     </div>
   );
 }
