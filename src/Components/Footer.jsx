@@ -35,7 +35,7 @@ This website is
           <GitHubIcon />
         </button>
       </div>
-      <p className="footer-copyright">Ⓒ 2023-2024<a href="https://github.com/SoumyaEXE">Soumyadeep Dey</a></p>
+      <h6><p className="footer-copyright">Ⓒ 2023-2024<a href="https://github.com/SoumyaEXE">Soumyadeep Dey</a></p></h6>
     </div>
   );
 }
