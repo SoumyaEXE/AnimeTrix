@@ -34,7 +34,7 @@ This website is
         <button onClick={() => githubUrl()}>
           <GitHubIcon />
         </button>
-      </div> <h6>className="footer-copyright">Ⓒ2023-2024<a href="https://github.com/SoumyaEXE">Soumyadeep Dey</a></h6>
+      </div> <h6>Ⓒ 2023-2024<a href="https://github.com/SoumyaEXE">Soumyadeep Dey</a></h6>
     </div>
   );
 }
