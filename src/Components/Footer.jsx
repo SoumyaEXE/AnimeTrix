@@ -15,15 +15,15 @@ function Footer() {
   return (
     <div className="footer">
       <h1>
-        <span className="white">Anime</span>World
+        <span className="white">Anime</span>Zen
       </h1>
       <p className="footer-about">
-AnimeTrix is not affiliated with or endorsed by any of the anime studios
+AnimeZen is not affiliated with or endorsed by any of the anime studios
         behind the creation of the anime presented on this site.A heartfelt thank you to the creators (🔥Shiva Bhattacharjee & Dark-Knight❤) for bringing this stunning website to life. I (🔥Soumyadeep Dey❤) am committed to enhancing its beauty and user experience even further. 
 This website is
         only an user interface presenting/linking various self-hosted files
         across the internet by other third-party providers for easy access.
-        AnimeWorld never downloads the video from any source provider, link will
+        AnimeZen never downloads the video from any source provider, link will
         be returned from the response hence it is completely not subjected to
         DMCA compliant.
       </p>
