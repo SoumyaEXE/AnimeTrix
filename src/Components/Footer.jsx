@@ -15,7 +15,7 @@ function Footer() {
   return (
     <div className="footer">
       <h1>
-        <span className="white">Anime</span>Trix
+        <span className="white">Anime</span>World
       </h1>
       <p className="footer-about">
 AnimeTrix is not affiliated with or endorsed by any of the anime studios
@@ -23,7 +23,7 @@ AnimeTrix is not affiliated with or endorsed by any of the anime studios
 This website is
         only an user interface presenting/linking various self-hosted files
         across the internet by other third-party providers for easy access.
-        AnimeTrix never downloads the video from any source provider, link will
+        AnimeWorld never downloads the video from any source provider, link will
         be returned from the response hence it is completely not subjected to
         DMCA compliant.
       </p>
