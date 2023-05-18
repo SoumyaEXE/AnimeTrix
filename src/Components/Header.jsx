@@ -137,7 +137,7 @@ const Header = forwardRef((props, ref) => {
         <div className="logo">
           <NavLink to="/">
             <span className="white">Anime</span>{" "}
-            <span className="blue">Trix</span>
+            <span className="blue">World</span>
           </NavLink>
         </div>
 
