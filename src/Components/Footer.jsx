@@ -5,7 +5,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 function Footer() {
 
   const githubUrl = () => {
-    window.open('https://github.com/SoumyaEXE/AnimeTrix')
+    window.open('https://github.com/SoumyaEXE/AnimeZen')
   }
 
   const instagramUrl = () => {
