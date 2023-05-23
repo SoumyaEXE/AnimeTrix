@@ -6,19 +6,19 @@ import { Link } from "react-router-dom";
 function Footer() {
 
   const githubUrl = () => {
-    window.open('https://github.com/ShivaBhattacharjee/AnimeTrix')
+    window.open('https://github.com/SoumyaEXE/AnimeZen')
   }
 
   const instagramUrl = () => {
-    window.open('https://www.instagram.com/animetrix.200/')
+    window.open('https://www.instagram.com/s0umy4_xD/')
   }
   const discordUrl = () => {
-    window.open('https://discord.gg/t7xSMNr7zN')
+    window.open('https://discord.gg')
   }
   return (
     <div className="footer">
       <h1>
-        <span className="white">Anime</span>Trix
+        <span className="white">Anime</span>Zen
       </h1>
       <p className="footer-about">
         AnimeTrix is not affiliated with or endorsed by any of the anime studios
@@ -39,6 +39,7 @@ function Footer() {
           <GitHubIcon />
         </button>
       </div>
+ <p className="footer"> <h6>Ⓒ 2023-2024 Soumyadeep Dey</h6> </p>
     </div>
   );
 }
